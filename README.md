@@ -1,2 +1,2 @@
-# CodinGames
-My codes samples in resolving https://www.codingame.com/ puzzles. 
+# CodinGames Puzzles Resolutions
+Check out my code samples in resolving multiples puzzles from https://www.codingame.com/ 
